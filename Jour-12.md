@@ -20,3 +20,4 @@
   - Savoir cloner un noœud.
   - Comprendre `documentFragment`.
   - Connaitre `document.write`, pourquoi il faut faire attention lors de son utilisation et ses spécificités.
+  
